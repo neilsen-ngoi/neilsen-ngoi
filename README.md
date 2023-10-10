@@ -16,7 +16,6 @@ My final group project at Dev Academy! I had a blast collaborating with my team,
 Feel free to DM me on LinkedIn, or get in touch via email!
 📜 Want to know more?
 
-Here's my CV!
 Key tech skills
 
     REST APIs
