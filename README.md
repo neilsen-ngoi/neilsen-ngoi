@@ -39,6 +39,9 @@ Key tech skills
     Sqlite3
     Multer
     Auth0
+    MongoDB
+    Prisma
+    Web Sockets
 
 Key human skills
 
