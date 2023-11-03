@@ -6,11 +6,10 @@ Problem solving has always been at the heart of everything I do. Earlier this ye
 I’m now hugely passionate about building fullstack applications, collaborating with other developers, learning new programming languages and frameworks, and sharing my knowledge. I thrive in fast-paced, challenging environments and can’t wait to contribute value to a development team!
 🔭 I’m currently working on
 
-My portfolio! I have a few different projects in the mix, which I'll be looking to build in some tech I haven't used yet. Watch this space!
+I have a few different projects in the mix, which I'll be looking to build in some tech I haven't used yet. Watch this space!
 💬 Ask me about
 
-My final group project at Dev Academy! I had a blast collaborating with my team, and embraced the struggle of stretching my knowledge even further with Auth0, Multer, and many-to-many relational databases.
-
+For my final group project at Dev Academy! I had a blast collaborating with my team, and embraced the struggle of stretching my knowledge even further with Auth0, Multer, and many-to-many relational databases.
 
 📫 How to reach me:
 
