@@ -7,6 +7,9 @@ I’m now hugely passionate about building fullstack applications, collaborating
 
 For my final group project at Dev Academy! I had a blast collaborating with my team, and embraced the struggle of stretching my knowledge even further with Auth0, Multer, and many-to-many relational databases.
 
+"Open to work or collaboration!"
+Im currently looking for a developer position or developer adjacent in Auckland or beyond.
+
 📫 How to reach me:
 [@Linkedin](https://www.linkedin.com/in/neilsen-ngoi-a046ab82/) or via [email](mailto:neilsen.nngoi@gmail.com)
 
