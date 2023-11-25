@@ -47,7 +47,7 @@ Key human skills
     Public Speaking
     Project Management
     Presentation and Demo Experience
-    Active Listening
+    Conflict Resolution
     Agile Methodologies
     Team Collaboration
     Non-Violent Communication Strategies (NVC)
