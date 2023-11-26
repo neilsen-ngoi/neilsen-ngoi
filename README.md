@@ -31,6 +31,7 @@ Key tech skills
     Superagent
     Vitest
     GitHub
+    Git Flow
     Database Queries
     React
     TypeScript
