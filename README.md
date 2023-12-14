@@ -48,9 +48,7 @@ Technical skills
     Prisma
     Web Sockets
 
-    
-
-Other Skills
+Skills
 
     Public Speaking
     Project Management
