@@ -45,8 +45,6 @@ Technical skills
     Prisma
     Web Sockets
 
-    
-
 Skills
 
     Public Speaking
