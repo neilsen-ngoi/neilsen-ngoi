@@ -27,6 +27,7 @@ I'm a former Speech and Drama teacher now turned full stack software developer a
 
 
 
+
 Problem solving has always been at the heart of everything I do. Earlier this year I decided to take the plunge into coding after many years of interest in tech.
 
 I’m now hugely passionate about building fullstack applications, collaborating with other developers, learning new programming languages and frameworks, and sharing my knowledge. I thrive in fast-paced, challenging environments and can’t wait to contribute value to a development team!
